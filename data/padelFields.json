@@ -1,0 +1,152 @@
+[
+    {
+        "id": "padelC1",
+        "location": "street 1A, #24",
+        "owner": "owner1",
+        "image": "https://content.app-sources.com/s/8606158100980568/thumbnails/640x480/Images/Cancha_padel_panoramica_20200530_0020-4146634.jpg",
+        "availability": true,
+        "type": "type A",
+        "score": 8,
+        "price": 15
+    },
+    {
+        "id": "padelC2",
+        "location": "street 32A, #28",
+        "owner": "owner1",
+        "image": "https://civideportes.com.co/wp-content/uploads/2020/11/cancha-de-pa%CC%81del-de-vidrio--980x650.jpg",
+        "availability": true,
+        "type": "type B",
+        "score": 9,
+        "price": 20
+    },
+    {
+        "id": "padelC3",
+        "location": "street 32A, #28",
+        "owner": "owner2",
+        "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/PETRTNQVQBHJRCDS3B6RF7IJK4.jpg",
+        "availability": true,
+        "type": "type B",
+        "score": 7,
+        "price": 15
+    },
+    {
+        "id": "padelC4",
+        "location": "street 12C, #17",
+        "owner": "owner3",
+        "image": "https://content.app-sources.com/s/8606158100980568/thumbnails/640x480/Images/IMG-20200212-WA0059-4079784.jpg",
+        "availability": true,
+        "type": "type C",
+        "score": 9,
+        "price": 20
+    },
+    {
+        "id": "padelC5",
+        "location": "street 25C, #5",
+        "owner": "owner3",
+        "image": "https://padelcanchas.com/wp-content/uploads/2021/06/Cancha-Muestra-Aerea.jpg",
+        "availability": true,
+        "type": "type A",
+        "score": 7,
+        "price": 25
+    },
+    {
+        "id": "padelC6",
+        "location": "street 5B, #13",
+        "owner": "owner3",
+        "image": "https://content.app-sources.com/s/8606158100980568/thumbnails/640x480/Images/Cancha_padel_wall20080410_0031-4146554.jpg",
+        "availability": false,
+        "type": "type A",
+        "score": 8,
+        "price": 20
+    },
+    {
+        "id": "padelC7",
+        "location": "street 4B, #12",
+        "owner": "owner4",
+        "image": "https://padelcanchas.com/wp-content/uploads/2021/06/Vista-Aerea-y-Lateral.jpg",
+        "availability": true,
+        "type": "type C",
+        "score": 8,
+        "price": 15
+    },
+    {
+        "id": "padelC8",
+        "location": "street 5B, #13",
+        "owner": "owner5",
+        "image": "https://padelcanchas.com/wp-content/uploads/2021/06/Vista-Aerea-y-Lateral.jpg",
+        "availability": false,
+        "type": "type B",
+        "score": 9,
+        "price": 15
+    },
+    {
+        "id": "padelC9",
+        "location": "street 5B, #14",
+        "owner": "owner5",
+        "image": "http://firmsport.com.mx/wp-content/uploads/2020/02/canchas-de-padel2.jpg",
+        "availability": true,
+        "type": "type A",
+        "score": 9,
+        "price": 20
+    },
+    {
+        "id": "padelC10",
+        "location": "street 5D, #14",
+        "owner": "owner6",
+        "image": "https://canchasdefutbol7.com/wp-content/uploads/2021/04/canchas-padel-01.jpg",
+        "availability": true,
+        "type": "type A",
+        "score": 8,
+        "price": 20
+    },
+    {
+        "id": "padelC11",
+        "location": "street 12A, #14",
+        "owner": "owner7",
+        "image": "https://image.made-in-china.com/155f0j00FvzhtsYcYgqR/2021-New-Model-Cancha-De-Padel-Tennis-Court-China-Youngman-Factory.jpg",
+        "availability": false,
+        "type": "type B",
+        "score": 9,
+        "price": 25
+    },
+    {
+        "id": "padelC12",
+        "location": "street 11D, #7",
+        "owner": "owner8",
+        "image": "https://canchasdepadel.com/wp-content/uploads/2020/10/cancha-padel-panoramica-08.png",
+        "availability": true,
+        "type": "type C",
+        "score": 9,
+        "price": 20
+    },
+    {
+        "id": "padelC13",
+        "location": "street 23B, #28",
+        "owner": "owner9",
+        "image": "https://sportmaster.mx/wp-content/uploads/cancha-de-padel-1.jpg",
+        "availability": true,
+        "type": "type A",
+        "score": 9,
+        "price": 20
+    },
+    {
+        "id": "padelC14",
+        "location": "street 23B, #29",
+        "owner": "owner9",
+        "image": "http://vive.lomasdeangelopolis.mx/wp-content/uploads/2017/01/Deportes02.jpg",
+        "availability": true,
+        "type": "type A",
+        "score": 9,
+        "price": 20
+    },
+    {
+        "id": "padelC15",
+        "location": "street 17C, #29",
+        "owner": "owner10",
+        "image": "http://www.mallasolcercas.com/images/uploads/cercado/3508-cancha-de-padel-2.jpg",
+        "availability": false,
+        "type": "type B",
+        "score": 7,
+        "price": 15
+    }
+]

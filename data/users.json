@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "Carlos",
+        "email": "carlos@gmail.com",
+        "contact": 1257542564,
+        "username": "carl",
+        "lastName": "Sosa",
+        "score": 8,
+        "history": ["padelC2","padelC7","padelC9","padelC11"]
+    },
+    {
+        "id": 2,
+        "name": "Karla",
+        "email": "karla@gmail.com",
+        "contact": 4571935284,
+        "username": "karl",
+        "lastName": "Robles",
+        "score": 8,
+        "history": ["padelC2", "padelC1", "padelC12", "padelC14"]
+    },
+    {
+        "id": 3,
+        "name": "Emma",
+        "email": "emma@gmail.com",
+        "contact": 1364739462,
+        "username": "emm",
+        "lastName": "Vara",
+        "score": 7,
+        "history": ["padelC4", "padelC8", "padelC7"]
+    },
+    {
+        "id": 4,
+        "name": "Fernanda",
+        "email": "fernanda@gmail.com",
+        "contact": 3285393653,
+        "username": "fer",
+        "lastName": "Uribe",
+        "score": 9,
+        "history": ["padelC10", "padelC6", "padelC12"]
+    },
+    {
+        "id": 5,
+        "name": "Roberto",
+        "email": "roberto@gmail.com",
+        "contact": 1593728574,
+        "username": "robert",
+        "lastName": "Alvarez",
+        "score": 6,
+        "history": ["padelC6","padelC13", "padelC1", "padelC9"]
+    },
+    {
+        "id": 6,
+        "name": "Enrique",
+        "email": "enrique@gmail.com",
+        "contact": 1243753943,
+        "username": "quique",
+        "lastName": "Montoya",
+        "score": 8,
+        "history": ["padelC10","padelC4", "padelC13"]
+    },
+    {
+        "id": 7,
+        "name": "Gustavo",
+        "email": "gustavo@gmail.com",
+        "contact": 8493756243,
+        "username": "gus",
+        "lastName": "Galindo",
+        "score": 7,
+        "history": ["padelC11","padelC14", "padelC8"]
+    }
+]
